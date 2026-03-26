@@ -1,4 +1,4 @@
-//>=8 muito bom, >=6 satisfatorio, senão insificiente
+//Pra avaliar uma nota >=8 muito bom, >=6 satisfatorio, senão insificiente
 
 let nota = 7;
 if (nota >=8) {
